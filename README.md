@@ -11,3 +11,6 @@ Locally edited
 
 ## tags learning
 Its going well, let's c
+
+## Getting Started
+This is to get started with tracking issues/fixing/closing issues
